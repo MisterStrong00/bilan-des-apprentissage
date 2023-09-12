@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Prompt&display=swap');
+
+body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(91, 192, 222); 
+  color: white;
+}
+
+
+p {
+  font-family: 'Crimson Text';
+}
+
+#img1 {
+  display: block;
+  max-width: 60%;
+  height: auto;
+}
+
+.intro-header {
+  background : no-repeat center center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding : 20.875em; 
+}
+
+h1 {
+  text-align :center;
+  color : white;
+  font-family: 'Prompt'
+}
+  
+code {
+  color:white
+}
+  
+.textProject1 {
+  margin-top:10em;
+}
+
